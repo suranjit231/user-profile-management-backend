@@ -28,9 +28,8 @@ For detailed setup instructions and API testing, please refer to the "Setup" and
 3. Set up environment variables in `.env` file (PORT, JWT_SECRET, DB_URL, EMAIL_USER, EMAIL_PASS, CLIENT_URL).
 4. Start the server using `npm start`.
 5. Open the port at `localhost:PORT/api-docs` to test the application.
-
-## Important env varialble need for setup
 ``
+## Important env varialble need for setup
 - PORT=3200
 - DB_URL= (mongodb url)
 - JWT_SECRET=(secret key for jwt)
