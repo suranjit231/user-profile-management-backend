@@ -23,13 +23,13 @@ For detailed setup instructions and API testing, please refer to the "Setup" and
 - **Bcrypt**: For hashing passwords.
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/suranjit231/user-management.git`
+1. Clone the repository: `git clone https://github.com/suranjit231/user-profile-management-backend.git`
 2. Install dependencies using `npm install`.
 3. Set up environment variables in `.env` file (PORT, JWT_SECRET, DB_URL, EMAIL_USER, EMAIL_PASS, CLIENT_URL).
 4. Start the server using `npm start`.
 5. Open the port at `localhost:PORT/api-docs` to test the application.
 
-## Important env varialble
+## Important env varialble need for setup
 ``
 - PORT=3200
 - DB_URL= (mongodb url)
